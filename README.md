@@ -46,14 +46,14 @@
 
 #### [참고] System Flow
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a6543501-5999-4311-b4e6-e32885048747" width="200" height="400">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a6543501-5999-4311-b4e6-e32885048747">
 </p>
 
 
 
 ## 📖 System Flow-Chart
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a677479b-2e7f-46d9-b8c1-841a9da25ab0">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a677479b-2e7f-46d9-b8c1-841a9da25ab0" width="600" height="700">
 </p>
 
 
@@ -67,7 +67,7 @@
    - 나머지 인물은 해당 값을 초과하기 때문에 모자이크 처리
 
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/f434cb12-8ef7-4ff0-b6b4-c2f5b77f4597">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/f434cb12-8ef7-4ff0-b6b4-c2f5b77f4597" width="400" height="300">
 </p>
 
 
