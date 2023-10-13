@@ -21,10 +21,10 @@
    - dlib 라이브러리를 활용하여 얼굴 탐색 시, 보통 HOG(Histogram of Oriented Gradients) 기법을 활용하거나 학습된 CNN 모델을 사용한다.
    - 성능 향상을 위하여 CNN 학습을 사용하고자 ‘dlib_face_recogni tion_resnet_model_v1.dat’를 활용하였다.
    - 동영상과 사진 속의 얼굴을 인식하기 위해서 아래의 세 과정을 거친다.
+   - 128개의 숫자는 딥러닝의 결과이므로 각 숫자가 가진 의미는 없지만, 같은 사람의 얼굴을 입력했을 때 비슷한 숫자의 나열이 생성되는 특징을 가진다.
 <p align="center">
   <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/926d862b-696c-4616-b8bc-a3a21ed09d91">
 </p>
-   - 128개의 숫자는 딥러닝의 결과이므로 각 숫자가 가진 의미는 없지만, 같은 사람의 얼굴을 입력했을 때 비슷한 숫자의 나열이 생성되는 특징을 가진다.
 
 
 #### 3. 얼굴 간의 거리(Similarity) 구하기
