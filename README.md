@@ -23,7 +23,7 @@
    - 동영상과 사진 속의 얼굴을 인식하기 위해서 아래의 세 과정을 거친다.
    - 128개의 숫자는 딥러닝의 결과이므로 각 숫자가 가진 의미는 없지만, 같은 사람의 얼굴을 입력했을 때 비슷한 숫자의 나열이 생성되는 특징을 가진다.
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/d5cf61cc-2bf0-4b53-bf70-c4561d751763">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/d5cf61cc-2bf0-4b53-bf70-c4561d751763" width="600" height="200">
 </p>
 
 
