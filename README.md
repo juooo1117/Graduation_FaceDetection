@@ -46,7 +46,7 @@
 
 #### [참고] System Flow
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a6543501-5999-4311-b4e6-e32885048747">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/3c2e6e3b-a95f-4c21-8709-3ca16894e36f">
 </p>
 
 
