@@ -53,7 +53,7 @@
 
 ## 📖 System Flow-Chart
 <p align="center">
-  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/a677479b-2e7f-46d9-b8c1-841a9da25ab0" width="600" height="700">
+  <img src="https://github.com/juooo1117/Graduation_FaceDetection/assets/95035134/fca063d0-2ae5-459f-9796-9dfc612fc8ff" width="600" height="700">
 </p>
 
 
